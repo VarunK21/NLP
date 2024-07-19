@@ -7,3 +7,5 @@ Application of LLMs -
   - Fine Tuning LLMs
   - Vision transformers
   - Theory - Transformers architecture, self attention and vision transformers.
+  - Quantization - Symmetric and Assymetric quantization. Post Training Quantization and Quantization Aware Training.
+  - Fine Tuning - Full Parameter Fine-Tuning, Specific Parameter Fine-Tuning, Domain Specific Fine-Tuning. Challenges of Full parameter fine tuning. LoRA and QLoRA fine tuning techniques. 
